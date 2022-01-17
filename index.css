@@ -1,0 +1,247 @@
+ .u-section-1 {
+  background-image: linear-gradient(40deg, #6e0b12, #22375c);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1528px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Montserrat;
+  font-weight: 700;
+  text-shadow: -2px -2px 8px rgba(26,26,26,1);
+  font-size: 3.75rem;
+  margin: 247px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  text-shadow: -2px -2px 8px rgba(26,26,26,1);
+  font-size: 2.25rem;
+  margin: 38px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 612px;
+  margin: 128px auto 0 256px;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 84px;
+  grid-template-columns: calc(33.3333% - 120px) calc(33.3333% - 120px) calc(33.3333% - 120px);
+  grid-gap: 180px 180px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  transition-duration: 0.5s;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 64px;
+  height: 64px;
+  transition-duration: 0.5s;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 64px;
+  height: 64px;
+  transition-duration: 0.5s;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Montserrat;
+  font-weight: 700;
+  text-shadow: 0 2px 32px rgba(0,0,0,1);
+  margin: 247px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 357px;
+  height: 357px;
+  transition-duration: 0.5s;
+  margin: 45px 145px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 357px;
+  height: 357px;
+  transition-duration: 0.5s;
+  margin: -357px auto 60px 140px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    transform: translateX(0px) translateY(-5px) scale(1);
+  }
+
+  .u-section-1 .u-icon-2 {
+    transform: translateX(0px) translateY(-5px) scale(1);
+    color: rgb(0, 0, 0) !important;
+  }
+
+  .u-section-1 .u-icon-3 {
+    transform: translateX(0px) translateY(-5px) scale(1);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 44px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-list-1 {
+    margin-left: 108px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 252px;
+    grid-template-columns: calc(50% - 90px) calc(50% - 90px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-bottom: 6px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1494px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 340px;
+    margin-top: -340px;
+    margin-left: 0;
+  }
+}
+
+.u-section-1 .u-icon-2,
+.u-section-1 .u-icon-2:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-2.u-icon-2.u-icon-2:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-icon-2.u-icon-2.u-icon-2.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-icon-3,
+.u-section-1 .u-icon-3:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-3.u-icon-3.u-icon-3:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-icon-3.u-icon-3.u-icon-3.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-icon-1,
+.u-section-1 .u-icon-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-1.u-icon-1.u-icon-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-icon-1.u-icon-1.u-icon-1.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-image-2,
+.u-section-1 .u-image-2:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-image-2 {
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-image-2 {
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-image-1,
+.u-section-1 .u-image-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-1.u-image-1.u-image-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-image-1.u-image-1.u-image-1.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}.NacroText {
+    font-family: Burbank;
+    src: url('../fonts/BurbankBigCondensed-Bold.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
